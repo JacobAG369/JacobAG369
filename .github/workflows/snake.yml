@@ -2,12 +2,15 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Se ejecuta cada 12 horas automáticamente
     - cron: "0 */12 * * *" 
   workflow_dispatch:
   push:
     branches:
     - main
+
+# ESTO SOLUCIONA EL ERROR: Otorga permisos al bot para guardar la imagen
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -24,7 +27,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-      # Sube los archivos generados a la rama "output"
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
