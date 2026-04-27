@@ -44,23 +44,23 @@ Desarrollador Junior e Ingeniero en Desarrollo y Gestión de Software. Me enfoco
 ### 📊 Métricas y Actividad
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JacobAG369&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacobAG369&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=58A6FF&style=flat-square&label=VISITAS" alt="Contador de Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=JacobAG369&color=58A6FF&style=flat-square&label=VISITAS" alt="Contador de Visitas" />
 </div>
 
 <br>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JacobAG369/JacobAG369/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JacobAG369/JacobAG369/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JacobAG369/JacobAG369/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -69,6 +69,6 @@ Desarrollador Junior e Ingeniero en Desarrollo y Gestión de Software. Me enfoco
 ### 📫 Contacto
 
 * **Website:** [jmyav.me](https://jmyav.me)
-* **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
+* **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com/in/jmyav.me)
 
 ![](https://komarev.com/ghpvc/?username=JacobAG369&color=blue)
