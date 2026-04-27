@@ -42,26 +42,35 @@ Here are some ideas to get you started:
 
 ### 🚀 Proyectos Destacados
 
-| Proyecto | Arquitectura & Stack | Descripción |
-| :--- | :--- | :--- |
-| **MediBook** | `Flask` `PostgreSQL` | Sistema de gestión de flujos médicos. Aplica patrones de diseño para lógica de negocio y BD escalable para data analytics. |
-| **Tu-Turismo** | `React` `Laravel` `WebSockets` | Plataforma interactiva Feature-based. Navegación en tiempo real integrando DBs NoSQL y tipado estricto. |
-| **SupportPandas**| `SaaS` `Dashboards` | Sistema corporativo para gestión de tickets y soporte técnico. Enfoque en rendimiento y UI minimalista. |
+🔹 **MediBook** `[ Flask | PostgreSQL ]`
+> Sistema centralizado para la gestión de flujos médicos. Aplica patrones de diseño para optimizar la lógica de negocio y estructura una base de datos escalable preparada para análisis clínicos avanzados.
+
+🔹 **Tu-Turismo** `[ React | Laravel | WebSockets ]`
+> Plataforma web de alto rendimiento con arquitectura Feature-based. Implementa navegación interactiva en tiempo real utilizando bases de datos NoSQL y tipado estricto.
+
+🔹 **SupportPandas** `[ SaaS | Dashboards ]`
+> Dashboard corporativo para la gestión de tickets y soporte técnico, enfocado en una experiencia de usuario minimalista y métricas de rendimiento en tiempo real.
 
 ---
 
 ### 📊 Telemetría de Desarrollo
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=JacobAG369&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacobAG369&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JacobAG369&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacobAG369&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
 
 <br><br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JacobAG369/JacobAG369/output/dist/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JacobAG369/JacobAG369/output/dist/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JacobAG369/JacobAG369/output/dist/github-contribution-grid-snake.svg">
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JacobAG369/JacobAG369/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JacobAG369/JacobAG369/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JacobAG369/JacobAG369/output/github-contribution-grid-snake.svg">
+  </picture>
+
+<br><br>
+
+  
+</div>
 
 <br>
 
