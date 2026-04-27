@@ -16,59 +16,58 @@ Here are some ideas to get you started:
 -->
 
 
-# Hola, soy Jimmy 
+<div align="center">
 
-Desarrollador Junior y estudiante de Ingeniería en Desarrollo y Gestión de Software. Mi enfoque está en el análisis de datos y la implementación de sistemas eficientes.
-
-💼 **Portafolio:** [jmyav.me](https://jmyav.me)
+# ⚡ Jacob | Software & Data Engineer
+**Construyendo arquitecturas escalables y analizando datos para decisiones técnicas.**
+<br>
+[![Portfolio](https://img.shields.io/badge/Portafolio-jmyav.me-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF)](https://jmyav.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://linkedin.com/in/tu-perfil)
+[![Location](https://img.shields.io/badge/Ubicación-Guadalajara,_MX-0D1117?style=for-the-badge&logo=googlemaps&logoColor=58A6FF)](#)
 
 ---
 
-### 💻 Stack Tecnológico
+### 🛠️ Core Stack
 
-* **Lenguajes:** Python, C, C++, PHP, TypeScript, SQL
-* **Frontend:** React, Tailwind CSS, Vite, Zustand
-* **Backend & DB:** Laravel,Flask,PostgreSQL, MongoDB, WebSockets, REST APIs
-* **Data & Análisis:** Pandas, Numpy, JupyterNotebook
-* **Herramientas:** CLion, PyCharm, VS Code, Docker, Git, Microsoft Office, Power BI.
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=58A6FF)
+![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=flat-square&logo=c%2B%2B&logoColor=58A6FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=58A6FF)
+![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=flat-square&logo=laravel&logoColor=58A6FF)
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=58A6FF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=58A6FF)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=58A6FF)
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=58A6FF)
 
 ---
 
 ### 🚀 Proyectos Destacados
 
-* **Tu-Turismo:** Plataforma web interactiva orientada a mapas en tiempo real (WebSockets). Desarrollada bajo una arquitectura basada en características (Feature-based) utilizando React, TypeScript, Laravel y bases de datos NoSQL.
-* **SupportPandas:** Plataforma SaaS para gestión de tickets corporativos y dashboards de soporte técnico, diseñada bajo una estética limpia, funcional y orientada al rendimiento.
-* **MediBook (Backend & Data Analytics):** Sistema centralizado para la gestión de flujos médicos. Desarrollado con **Flask** y **PostgreSQL**, aplicando patrones de diseño para optimizar la lógica de negocio y estructurar una base de datos escalable preparada para análisis clínicos avanzados.
----
-
-### 📊 Métricas y Actividad
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JacobAG369&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacobAG369&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JacobAG369&color=58A6FF&style=flat-square&label=VISITAS" alt="Contador de Visitas" />
-</div>
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JacobAG369/JacobAG369/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JacobAG369/JacobAG369/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JacobAG369/JacobAG369/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+| Proyecto | Arquitectura & Stack | Descripción |
+| :--- | :--- | :--- |
+| **MediBook** | `Flask` `PostgreSQL` | Sistema de gestión de flujos médicos. Aplica patrones de diseño para lógica de negocio y BD escalable para data analytics. |
+| **Tu-Turismo** | `React` `Laravel` `WebSockets` | Plataforma interactiva Feature-based. Navegación en tiempo real integrando DBs NoSQL y tipado estricto. |
+| **SupportPandas**| `SaaS` `Dashboards` | Sistema corporativo para gestión de tickets y soporte técnico. Enfoque en rendimiento y UI minimalista. |
 
 ---
 
-### 📫 Contacto
+### 📊 Telemetría de Desarrollo
 
-* **Website:** [jmyav.me](https://jmyav.me)
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=JacobAG369&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacobAG369&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JacobAG369/JacobAG369/output/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JacobAG369/JacobAG369/output/dist/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JacobAG369/JacobAG369/output/dist/github-contribution-grid-snake.svg">
+</picture>
+
+<br>
+
+![Visitas](https://komarev.com/ghpvc/?username=JacobAG369&color=0D1117&style=for-the-badge&label=VISITAS)
+
+</div>
   
 
 
