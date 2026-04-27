@@ -1,4 +1,4 @@
-  ## Hi there 👋
+  
 
 <!--
 **JacobAG369/JacobAG369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-# ⚡ Jacob | Software & Data Engineer
+# ⚡ Jimmy Aviña | Software Developer & Data Analyst
 **Construyendo arquitecturas escalables y analizando datos para decisiones técnicas.**
 <br>
 [![Portfolio](https://img.shields.io/badge/Portafolio-jmyav.me-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF)](https://jmyav.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://linkedin.com/in/tu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jmyav369-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/jmyav369)
 [![Location](https://img.shields.io/badge/Ubicación-Guadalajara,_MX-0D1117?style=for-the-badge&logo=googlemaps&logoColor=58A6FF)](#)
 
 ---
