@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 # ⚡ Jimmy Aviña | Software Developer & Data Analyst
+**
 <br>
 [![Portfolio](https://img.shields.io/badge/Portafolio-jmyav.me-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF)](https://jmyav.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jmyav369-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/jmyav369)
