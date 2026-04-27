@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-# Hola, soy [Tu Nombre] 🚀
+# Hola, soy Jimmy 
 
-Desarrollador Junior e Ingeniero en Desarrollo y Gestión de Software. Me enfoco en construir arquitecturas escalables, análisis de datos y la implementación de sistemas eficientes.
+Desarrollador Junior y estudiante de Ingeniería en Desarrollo y Gestión de Software. Mi enfoque está en el análisis de datos y la implementación de sistemas eficientes.
 
 💼 **Portafolio:** [jmyav.me](https://jmyav.me)
 
@@ -28,9 +28,9 @@ Desarrollador Junior e Ingeniero en Desarrollo y Gestión de Software. Me enfoco
 
 * **Lenguajes:** Python, C, C++, PHP, TypeScript, SQL
 * **Frontend:** React, Tailwind CSS, Vite, Zustand
-* **Backend & DB:** Laravel, MongoDB, WebSockets, REST APIs
-* **Data & Análisis:** Pandas
-* **Herramientas:** CLion, Git
+* **Backend & DB:** Laravel,Flask,PostgreSQL, MongoDB, WebSockets, REST APIs
+* **Data & Análisis:** Pandas, Numpy, JupyterNotebook
+* **Herramientas:** CLion, PyCharm, VS Code, Docker, Git, Microsoft Office, Power BI.
 
 ---
 
@@ -38,7 +38,7 @@ Desarrollador Junior e Ingeniero en Desarrollo y Gestión de Software. Me enfoco
 
 * **Tu-Turismo:** Plataforma web interactiva orientada a mapas en tiempo real (WebSockets). Desarrollada bajo una arquitectura basada en características (Feature-based) utilizando React, TypeScript, Laravel y bases de datos NoSQL.
 * **SupportPandas:** Plataforma SaaS para gestión de tickets corporativos y dashboards de soporte técnico, diseñada bajo una estética limpia, funcional y orientada al rendimiento.
-
+* **MediBook (Backend & Data Analytics):** Sistema centralizado para la gestión de flujos médicos. Desarrollado con **Flask** y **PostgreSQL**, aplicando patrones de diseño para optimizar la lógica de negocio y estructurar una base de datos escalable preparada para análisis clínicos avanzados.
 ---
 
 ### 📊 Métricas y Actividad
@@ -69,6 +69,6 @@ Desarrollador Junior e Ingeniero en Desarrollo y Gestión de Software. Me enfoco
 ### 📫 Contacto
 
 * **Website:** [jmyav.me](https://jmyav.me)
-* **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com/in/jmyav.me)
+  
 
-![](https://komarev.com/ghpvc/?username=JacobAG369&color=blue)
+
